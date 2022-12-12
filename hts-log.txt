@@ -1,0 +1,46 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 12 Dec 2022 23:36:21 at https://www.cropsolutions.co.uk/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.cropsolutions.co.uk/ -O1 "C:\Users\DELL\Desktop\websites\cropsolutions" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:37:40	Error: 	"Forbidden" (403) at link https://www.cropsolutions.co.uk/feed/ (from https://www.cropsolutions.co.uk/)
+23:37:40	Error: 	"Forbidden" (403) at link https://www.cropsolutions.co.uk/comments/feed/ (from https://www.cropsolutions.co.uk/)
+23:37:57	Error: 	"Forbidden" (403) at link https://www.cropsolutions.co.uk/wp-json/ (from https://www.cropsolutions.co.uk/)
+23:37:57	Error: 	"Forbidden" (403) at link https://www.cropsolutions.co.uk/wp-json/wp/v2/pages/934 (from https://www.cropsolutions.co.uk/)
+23:37:57	Error: 	"Forbidden" (403) at link https://www.cropsolutions.co.uk/xmlrpc.php?rsd (from https://www.cropsolutions.co.uk/)
+23:37:57	Error: 	"Forbidden" (403) at link https://www.cropsolutions.co.uk/wp-includes/wlwmanifest.xml (from https://www.cropsolutions.co.uk/)
+23:37:57	Error: 	"Forbidden" (403) at link https://www.cropsolutions.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.cropsolutions.co.uk%2F (from https://www.cropsolutions.co.uk/)
+23:37:57	Error: 	"Forbidden" (403) at link https://www.cropsolutions.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.cropsolutions.co.uk%2F&format=xml (from https://www.cropsolutions.co.uk/)
+23:37:57	Error: 	"Forbidden" (403) at link https://www.cropsolutions.co.uk/about-us/ (from https://www.cropsolutions.co.uk/)
+23:37:57	Error: 	"Forbidden" (403) at link https://www.cropsolutions.co.uk/about-us/meet-the-team/ (from https://www.cropsolutions.co.uk/)
+23:37:57	Error: 	"Forbidden" (403) at link https://www.cropsolutions.co.uk/privacy-policy/ (from https://www.cropsolutions.co.uk/)
+23:37:57	Error: 	"Forbidden" (403) at link https://www.cropsolutions.co.uk/terms-and-conditions/ (from https://www.cropsolutions.co.uk/)
+23:37:57	Error: 	"Forbidden" (403) at link https://www.cropsolutions.co.uk/products/ (from https://www.cropsolutions.co.uk/)
+23:37:57	Error: 	"Forbidden" (403) at link https://www.cropsolutions.co.uk/products/insect-nets/ (from https://www.cropsolutions.co.uk/)
+23:37:57	Error: 	"Forbidden" (403) at link https://www.cropsolutions.co.uk/products/bird-hail-net/ (from https://www.cropsolutions.co.uk/)
+23:37:57	Error: 	"Forbidden" (403) at link https://www.cropsolutions.co.uk/products/thermal-net/ (from https://www.cropsolutions.co.uk/)
+23:37:57	Error: 	"Forbidden" (403) at link https://www.cropsolutions.co.uk/products/fleece/ (from https://www.cropsolutions.co.uk/)
+23:37:57	Error: 	"Forbidden" (403) at link https://www.cropsolutions.co.uk/products/ground-cover/ (from https://www.cropsolutions.co.uk/)
+23:37:57	Error: 	"Forbidden" (403) at link https://www.cropsolutions.co.uk/products/machines/ (from https://www.cropsolutions.co.uk/)
+23:37:57	Error: 	"Forbidden" (403) at link https://www.cropsolutions.co.uk/products/machines/mk4-unrolling-machine/ (from https://www.cropsolutions.co.uk/)
+23:37:57	Error: 	"Forbidden" (403) at link https://www.cropsolutions.co.uk/products/machines/mk4-rolling-machine/ (from https://www.cropsolutions.co.uk/)
+23:37:57	Error: 	"Forbidden" (403) at link https://www.cropsolutions.co.uk/products/machines/mk1-rolling-unrolling-machine/ (from https://www.cropsolutions.co.uk/)
+23:37:57	Error: 	"Forbidden" (403) at link https://www.cropsolutions.co.uk/products/machines/machine-videos/ (from https://www.cropsolutions.co.uk/)
+23:37:57	Error: 	"Forbidden" (403) at link https://www.cropsolutions.co.uk/products/ancillaries/ (from https://www.cropsolutions.co.uk/)
+23:37:58	Error: 	"Forbidden" (403) at link https://www.cropsolutions.co.uk/gallery/ (from https://www.cropsolutions.co.uk/)
+23:37:58	Error: 	"Forbidden" (403) at link https://www.cropsolutions.co.uk/careers/ (from https://www.cropsolutions.co.uk/)
+23:37:58	Error: 	"Forbidden" (403) at link https://www.cropsolutions.co.uk/news/ (from https://www.cropsolutions.co.uk/)
+23:37:58	Error: 	"Forbidden" (403) at link https://www.cropsolutions.co.uk/contact-us/ (from https://www.cropsolutions.co.uk/)
+23:37:58	Error: 	"Unauthorized" (401) at link https://www.cropsolutions.co.uk/author/admin/ (from https://www.cropsolutions.co.uk/)
+23:37:58	Error: 	"Forbidden" (403) at link https://www.cropsolutions.co.uk/wp-admin/admin-ajax.php (from https://www.cropsolutions.co.uk/)
+23:37:58	Error: 	"Forbidden" (403) at link https://www.cropsolutions.co.uk/wp-content/themes/Avada/assets/images/patterns/pattern1.png (from https://www.cropsolutions.co.uk/wp-content/uploads/fusion-styles/7db710b1f79bca7b1f8c2ec5e7e87878.min.css?ver=3.8.2)
+23:37:58	Error: 	"Forbidden" (403) at link https://www.cropsolutions.co.uk/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/awb-icons.ttf (from https://www.cropsolutions.co.uk/wp-content/uploads/fusion-styles/7db710b1f79bca7b1f8c2ec5e7e87878.min.css?ver=3.8.2)
+23:37:58	Error: 	"Forbidden" (403) at link https://www.cropsolutions.co.uk/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/awb-icons.svg (from https://www.cropsolutions.co.uk/wp-content/uploads/fusion-styles/7db710b1f79bca7b1f8c2ec5e7e87878.min.css?ver=3.8.2)
+23:37:58	Error: 	"Forbidden" (403) at link https://www.cropsolutions.co.uk/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-brands-400.eot (from https://www.cropsolutions.co.uk/wp-content/uploads/fusion-styles/7db710b1f79bca7b1f8c2ec5e7e87878.min.css?ver=3.8.2)
+23:37:58	Error: 	"Forbidden" (403) at link https://www.cropsolutions.co.uk/wp-content/plugins/fusion-builder/assets/images/iLightbox/closedhand.cur (from https://www.cropsolutions.co.uk/wp-content/uploads/fusion-styles/7db710b1f79bca7b1f8c2ec5e7e87878.min.css?ver=3.8.2)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 37 seconds : 107 links scanned, 71 files written (2402838 bytes overall) [1059625 bytes received at 10923 bytes/sec], 1775524 bytes transferred using HTTP compression in 95 files, ratio 21%
+(35 errors, 0 warnings, 0 messages)
